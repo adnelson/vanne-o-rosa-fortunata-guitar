@@ -19,6 +19,8 @@
 songlyrics = \lyricmode {
   Van -- ne,_o ro -- so for -- tu -- na -- ta,
   A -- po -- sar -- di ni -- ce_in pet -- to
+  Ed o -- gnun sa -- rà co -- stret -- to
+  La tua sor -- te in -- vi -- dï -- ar.
 }
 
 <<
@@ -43,6 +45,14 @@ songlyrics = \lyricmode {
   d([ c]) b a([ b]) a
   |
   g4 g8 r b c
+  |
+  d4 d8 d4 d8
+  |
+  e4 d8 g4 g8
+  |
+  g8.([ e16]) c a g8([ b8.]) a16
+  |
+  \appoggiatura b8 g4 r8 r d' b
 }
 
 \new Lyrics {

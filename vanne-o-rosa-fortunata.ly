@@ -21,6 +21,14 @@ songlyrics = \lyricmode {
   A -- po -- sar -- di ni -- ce_in pet -- to
   Ed o -- gnun sa -- rà co -- stret -- to
   La tua sor -- te in -- vi -- dï -- ar.
+  Oh, se_in te po -- tes -- si_an chi'i -- o
+  Tra -- sfor -- mar -- mi_un sol mo -- men -- to
+  non a -- vria più bel con -- ten -- to
+  Que -- sto co -- re a so -- spi -- rar.
+  Ma tu_in -- chi -- ni di -- spet -- to -- sa,
+  Bel -- la ro -- sa_im -- pal -- li -- di -- ta,
+  La tua fron -- te -- sco -- lo -- ri -- ta
+  Dal -- lo -- sde -- gno -- e_dal do -- lor.
 }
 
 <<
@@ -53,6 +61,26 @@ songlyrics = \lyricmode {
   g8.([ e16]) c a g8([ b8.]) a16
   |
   \appoggiatura b8 g4 r8 r d' b
+  |
+  a4 a8 b[( a)] g
+  |
+  a4 fis8 d'4 dis8
+  |
+  e4 e8 g4 cis,8
+  |
+  e4\fermata d8 r8\fermata b c
+  |
+  d4 d8 d4 d8
+  |
+  e4 d8 g4 g8
+  |
+  g8.([ e16]) c a g8([ b8.]) a16
+  |
+  g8 r r r b b
+  |
+  b4 b8 b4 b8
+  |
+  c4 b8 r b b
 }
 
 \new Lyrics {

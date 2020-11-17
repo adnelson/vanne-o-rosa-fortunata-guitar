@@ -29,6 +29,19 @@ songlyrics = \lyricmode {
   Bel -- la ro -- sa_im -- pal -- li -- di -- ta,
   La tua fron -- te -- sco -- lo -- ri -- ta
   Dal -- lo -- sde -- gno -- e_dal do -- lor.
+  Bel -- la ro -- sa,_è de -- sti -- na -- ta
+  Ad -- en -- tram -- bi un'u -- gual sor -- te:
+  Là tro -- var dob -- biam la mor -- te,
+  Tu d'in -- vi -- dia_ed i -- o d'a -- mor.
+
+  Bel -- la ro -- sa, bel -- la ro -- sa,
+  Là tro -- var dob -- biam la mor -- te,
+  Tu d'in -- vi -- dia ed i -- o d'a -- mor;
+  Bel -- la ro -- sa, bel -- la ro -- sa,
+  Là tro -- var dob -- biam la mor -- te,
+  Tu d'in -- vi -- dia ed i -- o d'a -- mor,
+  Tu d'in -- vi -- dia ed i -- o d'a -- mor,
+  Tu d'in -- vi -- dia_ed i -- o d'a -- mor.
 }
 
 <<
@@ -81,6 +94,73 @@ songlyrics = \lyricmode {
   b4 b8 b4 b8
   |
   c4 b8 r b b
+  |
+  b4 b8 b4 b8
+  |
+  c4 b8 r b b
+  |
+  b4 b8 b([ a]) g
+  |
+  g4 c8 r c c
+  |
+  e4 e8 e4 e8
+  |
+  a,4 r8 r b c
+  |
+  d4 d8 d4 d8
+  |
+  e4 d8 d([ c]) b
+  |
+  d([ c]) b a([ b]) a
+  |
+  g4 d8 r b' c
+  |
+  d4 d8 d4 d8
+  |
+  e4 d8 g4 g8
+  |
+  g8.([ e16]) c a g8 b8. a16
+  |
+  a4 r8 c4 b8
+  |
+  a4 g8 e'4 d8
+  |
+  c4 b8 f'4 e8
+  |
+  f4 e8 f4 e8
+  |
+  e4 a8 a8.([ g16]) fis[ e]
+  |
+  e8.([ d16]) c b d8. c16 b( [a])
+  |
+  a4 r8 c4 b8
+  |
+  a4 g8 e'4 d8
+  |
+  c4 b8 f'4 e8
+  |
+  f4 e8 f4 e8
+  |
+  e4 a8 a8.([ g16]) fis[ e]
+  |
+  e8.([ d16]) c b d8. c16 b( [a])
+  |
+  g8 e'4( e) e8
+  |
+  a,8 b4 c8 e8. d16
+  |
+  b8 e4( e) e8
+  |
+  a,8 b4 c8 e8.\fermata d16
+  |
+  g,4 r8 r4.
+  |
+  r4. r4.
+  |
+  r4. r4.
+  |
+  r4. r4.\fermata
+  \bar "|."
 }
 
 \new Lyrics {
@@ -108,17 +188,17 @@ songlyrics = \lyricmode {
       |
       <b g'>8 r4 r4.
       |
-      r8 <g'-3\4 b-2\3>( <d-0>) r <fis-1 c'-3>( <d-0>)
+      r8 <g'-3\4 b-1\3>( <d-0>) r <fis-1 c'-3>( d)
       |
-      r8 <g-1\4 d'-3\3>( <d-0>) r <gis-1 d'-3>( <e-2\RH #2 >)
+      r8 <g-0 d'-4>( d) r <gis-1 d'-3>( <e-2\RH #2 >)
       |
-      r8 <a-3 c-1>( <e-2>) r <fis-1 c'-3>( <d-0 >)
+      r8 <a-3 c-1>( <e-2>) r <fis-1 c'-3>( d)
       |
-      r8 <g-3 b-2>( <d-0>) r <g b>( d)
+      r8 <g-3 b-2>( d) r <g b>( d)
       |
       r8 <g b>( d) r <fis c'>( d)
       |
-      r8 <g d'>( <d-0>) r <b'-3 g'-2>( <g-0>)
+      r8 <g d'>( d) r <b'-3 g'-2>( <g-0>)
       |
       r8 <c-3 e-4>( <a-1>) r4 <d, fis c'>8
       |
@@ -134,7 +214,7 @@ songlyrics = \lyricmode {
       |
       r8 <g b>( d) r <fis c'>( d)
       |
-      r8 <g d'>( <d-0>) r <b'-3 g'-2>( <g-0>)
+      r8 <g d'>( d) r <b'-3 g'-2>( <g-0>)
       |
       r8 <c-3 e-4>( <a-1>) r4 <d, fis c'>8
       |
@@ -223,21 +303,21 @@ songlyrics = \lyricmode {
       |
       g r4 r4.
       |
-      <g-1>8\pp r r <a-2> r r
+      <g-2>8\pp r r <a-0> r r
       |
-      <b-2> r r e, r r
+      <b-1> r r e, r r
       |
-      <a-0> r r <d-2> r r
+      <a-0> r r <d,-0> r r
       |
-      <g,-1> r r g r r
+      <g-1> r r g r r
       |
       g r r a r r
       |
       b r r e, r r
       |
-      c' r r d r r
+      c' r r d, r r
       |
-      g,4 d'8 g, r r
+      g4 d8 g r r
       |
       d' r r cis r r
       |
@@ -255,11 +335,11 @@ songlyrics = \lyricmode {
       |
       r g d g, r r
       |
-      r4. e
+      dis4. e
       |
       fis r
       |
-      r4. e
+      dis4. e
       |
       fis r
       |

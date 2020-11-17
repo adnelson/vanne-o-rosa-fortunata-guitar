@@ -17,7 +17,7 @@
 }
 
 songlyrics = \lyricmode {
-  Van -- ne,_o ro -- so for -- tu -- na -- ta,
+  Van -- ne,_o ro -- sa for -- tu -- na -- ta,
   A -- po -- sar -- di ni -- ce_in pet -- to
   Ed o -- gnun sa -- rà co -- stret -- to
   La tua sor -- te in -- vi -- dï -- ar.

@@ -212,7 +212,7 @@ songlyrics = \lyricmode {
       |
       r <g b>( e) r <g cis>( e)
       |
-      <fis d'> r r\fermata r4.
+      <fis d'> r r r\fermata r4
       |
       r8 <g b>( d) r <fis c'>( d)
       |
@@ -327,15 +327,15 @@ songlyrics = \lyricmode {
       |
       g r r a r r
       |
-      d r r\fermata r4.
+      d r r r\fermata r4
       |
       g,8 r r a r r
       |
       b r r e, r r
       |
-      c' r r d r r
+      c' r r d, r r
       |
-      r g d g, r r
+      r g' d g, r r
       |
       dis4. e
       |
@@ -365,23 +365,11 @@ songlyrics = \lyricmode {
       |
       b r r e, r r
       |
-      c' r r d r r
+      c' r r d, r r
       |
-      cis r r dis r r
+      cis' r r dis, r r
       |
-      e, r r fis r r
-      |
-      g r r gis r r
-      |
-      a r r b r r
-      |
-      c r r c r r
-      |
-      d r r d r r
-      |
-      cis r r dis r r
-      |
-      e, r r fis r r
+      e r r fis r r
       |
       g r r gis r r
       |
@@ -389,9 +377,21 @@ songlyrics = \lyricmode {
       |
       c r r c r r
       |
-      d r r d r r
+      d, r r d r r
       |
-      g, cis2-> r8
+      cis' r r dis, r r
+      |
+      e r r fis r r
+      |
+      g r r gis r r
+      |
+      a r r b r r
+      |
+      c r r c r r
+      |
+      d, r r d r r
+      |
+      g cis2-> r8
       |
       d r r d r r
       |

@@ -32,7 +32,7 @@ songlyrics = \lyricmode {
   Bel -- la ro -- sa,_è de -- sti -- na -- ta
   Ad -- en -- tram -- bi un'u -- gual sor -- te:
   Là tro -- var dob -- biam la mor -- te,
-  Tu d'in -- vi -- dia_ed i -- o d'a -- mor.
+  Tu d'in -- vi -- dia ed i -- o d'a -- mor.
 
   Bel -- la ro -- sa, bel -- la ro -- sa,
   Là tro -- var dob -- biam la mor -- te,
@@ -40,7 +40,7 @@ songlyrics = \lyricmode {
   Bel -- la ro -- sa, bel -- la ro -- sa,
   Là tro -- var dob -- biam la mor -- te,
   Tu d'in -- vi -- dia ed i -- o d'a -- mor,
-  Tu d'in -- vi -- dia ed i -- o d'a -- mor,
+  Tu d'in -- vi -- dia_ed i -- o d'a -- mor,
   Tu d'in -- vi -- dia_ed i -- o d'a -- mor.
 }
 
@@ -182,8 +182,10 @@ songlyrics = \lyricmode {
       \voiceOne
       \set fingeringOrientations = #'(left)
       \set stringNumberOrientations = #'(up)
-      \partial 4. <b d>4\mf <a c>8
-      <g b>4 g'8 <b, d>( <a c>) <fis a> |
+      \partial 4. <b-2 d-1>4\mf <a c>8
+      |
+      <g b>4 g'8 <b, d>( <a c>) <fis a>
+      |
       g r <d b'> <b g'> r <b g'>
       |
       <b g'>8 r4 r4.
@@ -319,9 +321,9 @@ songlyrics = \lyricmode {
       |
       g4 d8 g r r
       |
-      d' r r cis r r
+      d r r cis' r r
       |
-      d r r fis, r r
+      d, r r fis r r
       |
       g r r a r r
       |
@@ -343,9 +345,9 @@ songlyrics = \lyricmode {
       |
       fis r
       |
-      <d'-3>8 r r d r r
+      <d-3>8 r r d r r
       |
-      <c-3> r r c r r
+      <c'-3> r r c r r
       |
       <cis-3> r r cis r r
       |

@@ -184,53 +184,52 @@ songlyrics = \lyricmode {
       \set stringNumberOrientations = #'(up)
       \partial 4. <b-2 d-1>4\mf <a c>8
       |
-      <g b>4 g'8 <b, d>( <a c>) <fis a>
+      <g b>4 <g'-4>8 <b, d>( <a c>) <fis-4 a-2>
       |
-      g r <d b'> <b g'> r <b g'>
+      <g-0> r <d-0 b'-0> <b g'> r <b g'>
       |
       <b g'>8 r4 r4.
       |
-      r8 <g'-3\4 b-1\3>( <d-0>) r <fis-1 c'-3>( d)
+      r8 <g'-0 b-0>( <d-0>) r <fis-1 c'-3>( <d-2>)
       |
-      r8 <g-0 d'-4>( d) r <gis-1 d'-3>( <e-2\RH #2 >)
+      r8 <g-0 d'-4>( <d-0>) r <gis-1 d'-4>( <e-2>)
       |
-      r8 <a-3 c-1>( <e-2>) r <fis-1 c'-3>( d)
+      r8 <a-3 c-1>( <e-2>) r <fis-1 c'-3>( <d-2>)
       |
-      r8 <g-3 b-2>( d) r <g b>( d)
-      |
-      r8 <g b>( d) r <fis c'>( d)
-      |
-      r8 <g d'>( d) r <b'-3 g'-2>( <g-0>)
-      |
-      r8 <c-3 e-4>( <a-1>) r4 <d, fis c'>8
-      |
-      r <d b'>( <c a'> <b g'>) r r
-      |
-      r <fis' a>( d) r <g a>( e)
-      |
-      r <fis a>( d) r <a' d>( fis)
-      |
-      r <g b>( e) r <g cis>( e)
-      |
-      <fis d'> r r r\fermata r4
+      r8 <g-0 b-0>( <d-0>) r <g b>( d)
       |
       r8 <g b>( d) r <fis c'>( d)
       |
-      r8 <g d'>( d) r <b'-3 g'-2>( <g-0>)
+      r8 <g-0 d'-4>( <d-0>) r <b'-0 g'-4>( <g-0>)
       |
-      r8 <c-3 e-4>( <a-1>) r4 <d, fis c'>8
+      r8 <c-1 e-0>( <a-2>) r4 <d,-2 fis-1 c'-3>8
       |
-      r <b' d> <c fis> <b g'> r r
+      r <d b'>( <c-2 a'-1> <b-1 g'-0>) r r
       |
-      <b, fis' a b>4. <b e g b>
+      r <fis'-3 a-1>( <d-4>) r <g-4 a-1>( <e-1>)
       |
-      <b dis a' b> r
+      r <fis a>( d) r <a'-1 d-2>( <fis-3>)
       |
-      <b fis' a b>4. <b e g b>
+      r <g-0 b-0>( <e-1>) r <g-0 cis-3>( <e-2>)
       |
-      <b dis a' b> r
+      <fis-2 d'-1> r r r\fermata r4
       |
-      r8 <f' g b> <f g b> r <f g b> <f g b>
+      r8 <g b>( d) r <fis c'>( d)
+      |
+      r8 <g d'>( d) r <b'-0 g'-4>( <g-0>)
+      |
+      r8 <c-1 e-0>( <a-2>) r4 <d,-2 fis-1 c'-3>8
+      |
+      r <b'-2 d-1> <c-1 fis-2> <b-0 g'-1> r r
+      |
+      <dis,, b'-2 fis'-4 a-3 b-0>4.\arpeggio <e b'-2 e-3 g-0 b-0>\arpeggio
+      |
+      <fis b-1 dis-4 a'-1 b-0>\arpeggio r
+      <dis b'-2 fis'-4 a-3 b-0>4.\arpeggio <e b'-2 e-3 g-0 b-0>\arpeggio
+      |
+      <fis b-1 dis-4 a'-1 b-0>\arpeggio r
+      |
+      r8 <f'-3 g-0 b-0> <f g b> r <f g b> <f g b>
       |
       r8 <e-2 g-0 c-1> <e g c> r <e g c> <e g c>
       |
@@ -238,57 +237,57 @@ songlyrics = \lyricmode {
       |
       <fis a>4 r8\fermata r4.
       |
-      r8 <d-0\RH #2 >( <g-3\4\RH #3 b-2\3\RH #4 >) r <d-0\RH #2 >( <fis-1\RH #3 c'-2\RH #4 >)
+      r8 <d-0\RH #2 >( <g-0 b-0 >) r <d-2 >( <fis-1 c'-3 >)
       |
-      r <d-0\RH #2 >( <g-1\4\RH #3 d'-3\3\RH #4 >) r <e-2\5\RH #2 >( <gis-1\RH #3 d'-3\RH #4 >)
+      r <d-0 >( <g-0 d'-4 >) r <e-3>( <gis-1 d'-4 >)
       |
-      r <e-3>(<a-4 c-1>) r <d,-0\4 >( <fis-2 c'-4>)
+      r <e-2>(<a-3 c-1>) r <d,-2 >( <fis-1 c'-3>)
       |
-      r <d-0>( <g-3 b-2>) r d( <g b>)
+      r <d-0>( <g-0 b-0>) r d( <g b>)
       |
       r d( <g b>) r d( <fis c'>)
       |
-      r d( <g d'>) r g( <b-1 g'-4>)
+      r <d-0>( <g-0 d'-4>) r <g-0>( <b-0 g'-4>)
       |
-      r e,( <a c>) r4 <d, fis c'>8
+      r <e,-2>( <a-3 c-1>) r4 <d,-3 fis-2 c'-4>8
       |
-      r e( <g a>) r fis( <a b>)
+      r <e-1>( <g-4 a-1>) r <fis-4>( <a-2 b-0>)
       |
-      r e( <g b>) r a( <c d>)
+      r <e-1>( <g-0 b-0>) r <a-4>( <c-2 d-1>)
       |
-      r g( <b d>) r e,( <b' d>)
+      r <g-0>( <b-2 d-1>) r <e,-1\4>( <b'-3 d-2>)
       |
-      r e,( <a c>) r e( <gis b>)
+      r <e,-2>( <a-3 c-1>) r <e-3>( <gis-1 b-0>)
       |
-      r e( <a c>) r e( <a c>)
+      r <e-2>( <a-3 c-1>) r e( <a c>)
       |
-      r d,( <g b>) r d( <f a>)
+      r d,( <g b>) r <d-3>( <fis-2 a-1>)
       |
-      r e( <g a>) r fis( <a b>)
+      r <e-1>( <g-4 a-1>) r <fis-4>( <a-2 b-0>)
       |
-      r e( <g b>) r a( <c d>)
+      r <e-1>( <g-0 b-0>) r <a-4>( <c-2 d-1>)
       |
-      r g( <b d>) r e,( <b' d>)
+      r <g-0>( <b-2 d-1>) r <e,-1\4>( <b'-3 d-2>)
       |
-      r e,( <a c>) r e( <gis b>)
+      r <e,-2>( <a-3 c-1>) r <e-3>( <gis b>)
       |
-      r e( <a c>) r e( <a c>)
+      r <e-2>( <a-3 c-1>) r e( <a c>)
       |
-      r d,( <g b>) r d( <f a>)
+      r d,( <g b>) r <d-3>( <fis-2 a-1>)
       |
-      <b g> <g bes e>2-> r8
+      <b g> <cis,-2 g'-3 bes-1 e-0>2->\arpeggio r8
       |
-      r d( <g a>) r4 <fis a>8
+      r <d-3>( <g-4 a-1>) r4 <fis-2 a-1>8
       |
-      <g b> <g bes e>2-> r8
+      <g b> <cis,-2 g'-3 bes-1 e-0>2->\arpeggio r8
       |
-      r d( <g a>) <fis a>8 r\fermata r
+      r <d-3>( <g-4 a-1>) <fis-2 a-1>8 r\fermata r
       |
-      r <b d>( <a c>) <g b> <e g>( <c e>)
+      r <b-2 d-1>( <a-2 c-1>) <g-0 b-0> <e'-4 g-2>( <c-3 e-4>)
       |
-      <b' d> r r <a c fis> r r
+      <b-2 d-1> r r <a-2 c-1 fis-3> r r
       |
-      <b d g> r r <b d g> r r
+      <b-2 d-1 g-1> r r <b d g> r r
       |
       <b d g>4 r8 r4.\fermata
     }
@@ -297,17 +296,17 @@ songlyrics = \lyricmode {
       \voiceTwo
       \set fingeringOrientations = #'(left)
       \set stringNumberOrientations = #'(down)
-      \partial 4. r8 g' dis
+      \partial 4. r8 <g'-3> <dis-1>
       |
-      e4 c8 d4 c8
+      <e-1>4 <c-2>8 d4 <c-3>8
       |
-      <g b>8 r g g r g
+      <g-4 b-1>8 r g g r g
       |
       g r4 r4.
       |
       <g-2>8\pp r r <a-0> r r
       |
-      <b-1> r r e, r r
+      <b-1> r r <e,-2> r r
       |
       <a-0> r r <d,-0> r r
       |
@@ -315,35 +314,35 @@ songlyrics = \lyricmode {
       |
       g r r a r r
       |
+      b r r <e,-1> r r
+      |
+      c' r r d, r r
+      |
+      g4 r8 r4.
+      |
+      d8 r r <cis'-3> r r
+      |
+      d, r r <fis-3> r r
+      |
+      <g-4> r r a r r
+      |
+      d, r r r\fermata r4
+      |
+      g8 r r a r r
+      |
       b r r e, r r
       |
       c' r r d, r r
       |
-      g4 d8 g r r
+      r <g'-3> <d-0> <g,-3> r r
       |
-      d r r cis' r r
+      <dis-1>4. <e-1>
       |
-      d, r r fis r r
+      <fis-3> r
       |
-      g r r a r r
+      <dis-1>4. <e-1>
       |
-      d r r r\fermata r4
-      |
-      g,8 r r a r r
-      |
-      b r r e, r r
-      |
-      c' r r d, r r
-      |
-      r g' d g, r r
-      |
-      dis4. e
-      |
-      fis r
-      |
-      dis4. e
-      |
-      fis r
+      <fis-3> r
       |
       <d-3>8 r r d r r
       |
@@ -355,57 +354,57 @@ songlyrics = \lyricmode {
       |
       g,8 r r a r r
       |
-      b r r e, r r
+      <b-1> r r <e,-1> r r
       |
-      a r r <d-2\5> r r
+      a r r d, r r
       |
-      <g,-1> r r g r r
+      <g-1> r r g r r
       |
       g r r a r r
       |
       b r r e, r r
       |
-      c' r r d, r r
+      <c'-3> r r d, r r
       |
-      cis' r r dis, r r
+      <cis'-3> r r <dis,-1> r r
       |
-      e r r fis r r
+      <e-1> r r <fis-1> r r
       |
-      g r r gis r r
+      g r r <gis-4> r r
       |
-      a r r b r r
+      a r r <b-2> r r
       |
-      c r r c r r
-      |
-      d, r r d r r
-      |
-      cis' r r dis, r r
-      |
-      e r r fis r r
-      |
-      g r r gis r r
-      |
-      a r r b r r
-      |
-      c r r c r r
+      <c-4> r r c r r
       |
       d, r r d r r
       |
-      g cis2-> r8
+      <cis'-3> r r <dis,-1> r r
       |
-      d r r d r r
+      <e-1> r r <fis-1> r r
       |
-      g, cis2-> r8
+      <g-3> r r <gis-4> r r
       |
-      d r r d r\fermata r
+      a r r <b-2> r r
       |
-      r g( dis) e4 c8
+      <c-4> r r c r r
       |
-      d r r d r r
+      d, r r d r r
       |
-      g d b g' d b
+      <g-4> cis2 r8
       |
-      g4 r8 r4.\fermata
+      d, r r d r r
+      |
+      g cis2 r8
+      |
+      d, r r <d'-3> r\fermata r
+      |
+      r <g-1>( <dis-1>) <e-1>4 <c-1>8
+      |
+      <d-0> r r <d,-0> r r
+      |
+      <g'-3> <d-0> <b-1> <g'-3> <d-0> <b-1>
+      |
+      <g-3>4 r8 r4.\fermata
     }
 
 >>

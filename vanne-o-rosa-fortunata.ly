@@ -171,6 +171,7 @@ songlyrics = \lyricmode {
 \new Staff \with {
   instrumentName = "Guitar."
   \override StaffSymbol.staff-space = #(magstep +1)
+  % \omit Fingering
 } <<
   \tempo "Andante mosso assai"
   \key g \major
@@ -256,7 +257,7 @@ songlyrics = \lyricmode {
       |
       r <e-1>( <g-0 b-0>) r <a-4>( <c-2 d-1>)
       |
-      r <g-0>( <b-2 d-1>) r <e,-1\4>( <b'-3 d-2>)
+      r <g-0>( <b-2 d-1>) r <e,-1>( <b'-3 d-2>)
       |
       r <e,-2>( <a-3 c-1>) r <e-3>( <gis-1 b-0>)
       |
@@ -268,7 +269,7 @@ songlyrics = \lyricmode {
       |
       r <e-1>( <g-0 b-0>) r <a-4>( <c-2 d-1>)
       |
-      r <g-0>( <b-2 d-1>) r <e,-1\4>( <b'-3 d-2>)
+      r <g-0>( <b-2 d-1>) r <e,-1>( <b'-3 d-2>)
       |
       r <e,-2>( <a-3 c-1>) r <e-3>( <gis b>)
       |
@@ -286,9 +287,9 @@ songlyrics = \lyricmode {
       |
       r <b-2 d-1>( <a-2 c-1>) <g-0 b-0> <e'-4 g-2>( <c-3 e-4>)
       |
-      <b-2 d-1> r r <a-2 c-1 fis-3> r r
+      <b-2 d-1> r4 <a-2 c-1 fis-3>8 r4
       |
-      <b-2 d-1 g-1> r r <b d g> r r
+      <b-2 d-1 g-1>8 r4 <b d g>8 r4
       |
       <b d g>4 r8 r4.\fermata
     }
@@ -401,9 +402,9 @@ songlyrics = \lyricmode {
       |
       r <g-1>( <dis-1>) <e-1>4 <c-1>8
       |
-      <d-0> r r <d,-0> r r
+      <d-0> r4 <d,-0>8 r4
       |
-      <g'-3> <d-0> <b-1> <g'-3> <d-0> <b-1>
+      <g'-3>8 <d-0> <b-1> <g'-3> <d-0> <b-1>
       |
       <g-3>4 r8 r4.\fermata
     }

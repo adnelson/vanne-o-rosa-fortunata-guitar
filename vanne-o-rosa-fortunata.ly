@@ -11,6 +11,7 @@
 
 \header {
   title = "Vanne, o rosa fortunata"
+  subtitle = "from Composizioni da Camera, ca. 1820"
   composer = "Vincenzo Bellini (1801 - 1835)"
   arranger = "arr. Allen Nelson, 2020"
   copyright = "©2020 Allen Nelson. Free use with attribution."
@@ -182,9 +183,9 @@ songlyrics = \lyricmode {
       \voiceOne
       \set fingeringOrientations = #'(left)
       \set stringNumberOrientations = #'(up)
-      \partial 4. <b-2 d-1>4\mf <a c>8
+      \partial 4. <b-2 d-1>4\mf <a-2 c-1>8
       |
-      <g b>4 <g'-4>8 <b, d>( <a c>) <fis-4 a-2>
+      <g b>4 <g'-4>8 <b,-2 d-1>( <a-2 c-1>) <fis-4 a-2>
       |
       <g-0> r <d-0 b'-0> <b g'> r <b g'>
       |
@@ -204,7 +205,7 @@ songlyrics = \lyricmode {
       |
       r8 <c-1 e-0>( <a-2>) r4 <d,-2 fis-1 c'-3>8
       |
-      r <d b'>( <c-2 a'-1> <b-1 g'-0>) r r
+      r <d b'>( <c-2 a'-1> <b-1 g'>) r r
       |
       r <fis'-3 a-1>( <d-4>) r <g-4 a-1>( <e-1>)
       |
@@ -298,7 +299,7 @@ songlyrics = \lyricmode {
       \set stringNumberOrientations = #'(down)
       \partial 4. r8 <g'-3> <dis-1>
       |
-      <e-1>4 <c-2>8 d4 <c-3>8
+      <e-1>4 <c-2>8 <d-0>4 <c-3>8
       |
       <g-4 b-1>8 r g g r g
       |
